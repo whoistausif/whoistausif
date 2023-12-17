@@ -33,7 +33,7 @@ I'm always excited to explore new technologies and take on exciting projects. If
 
 ## Get in Touch
 
-📧 Email: [your@email.com](mailto:your@email.com)
+📧 Email: [mohdtausif641@gmail.com](mailto:mohdtausif641@gmail.com)
 
 🌐 LinkedIn: [linkedin.com/in/mohammad-tausif](https://www.linkedin.com/in/mohammad-tausif07)
 
