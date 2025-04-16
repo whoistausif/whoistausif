@@ -15,7 +15,7 @@ I specialize in developing websites that not only look great but also provide an
 ## My Skills
 
 - **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** Node.js
+- **Backend:** PHP, Node.js
 - **Database:** MongoDB
 
 ## Why Choose Me?
