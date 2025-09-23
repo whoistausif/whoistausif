@@ -1,6 +1,6 @@
-<h1 align="center">👋 Hey, I'm Mohd Tausif</h1>
+<h1 align="center">👋 Hi, I'm Mohd Tausif</h1>
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Data+Analyst;AI%2FML+Enthusiast;Lifelong+Learner" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Data+Analyst;AI%2FML+Enthusiast;Web+Developer;Lifelong+Learner" alt="Typing Animation" />
 </h3>
 
 <p align="center">
@@ -14,61 +14,58 @@
 
 ---
 
-## 🧰 Tech Stack & Profile Dashboard
+## 🧰 Profile Overview
 
-<p align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+<div style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
-<!-- Programming Card -->
-<div align="center" style="border-radius: 12px; padding: 20px; width: 200px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: 0.3s; background:#f9f9f9;">
-  <h4>💻 Programming</h4>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,r" />
+<!-- Profile Card -->
+<div style="background:#f9f9f9; padding:20px; border-radius:12px; width:450px; box-shadow:0 5px 15px rgba(0,0,0,0.1); transition:0.3s;">
+  <!-- Name & Role -->
+  <h2>Mohd Tausif</h2>
+  <h4>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=007ACC&center=true&vCenter=true&width=400&lines=Data+Analyst" alt="Role Typing" />
+  </h4>
+  
+  <!-- Links -->
+  <p>
+    <a href="https://www.linkedin.com/in/mohammadtausif07/">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="https://github.com/whoistausif">
+      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+    </a>
+  </p>
+  
+  <!-- Tech Stack -->
+  <h4>🛠 Tech Stack</h4>
+  <p>
+    <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,r,aws,azure,gcp,tensorflow,sklearn,git,github,vscode,figma" />
+  </p>
+  
+  <!-- Technical Skills -->
+  <h4>💡 Technical Skills</h4>
+  <ul>
+    <li><b>Databases / SQL:</b> SQL (SELECT, JOINs, Subqueries, Functions, Procedures, Transactions), Oracle, MySQL, SQL Server</li>
+    <li><b>Programming:</b> Python (Pandas, NumPy, Matplotlib, Seaborn), R (optional), Jupyter Notebooks</li>
+    <li><b>Data Visualization / BI:</b> Power BI (Dashboards, KPIs, Measures, Interactivity), Tableau, Excel Advanced (Pivot Tables, Charts, Power Query, VLOOKUP)</li>
+    <li><b>Statistics / Analytics:</b> Descriptive & Inferential Statistics, Correlation, Regression, EDA</li>
+    <li><b>ETL / Big Data:</b> Hadoop, Spark, PySpark (Optional)</li>
+    <li><b>Cloud / Version Control:</b> AWS, Azure, GCP basics, Git/GitHub (Optional)</li>
+    <li><b>Soft Skills:</b> Analytical Thinking, Problem-Solving, Communication, Time Management, Team Collaboration</li>
+  </ul>
+  
+  <!-- Projects -->
+  <h4>📁 Projects</h4>
+  <ol>
+    <li><b>SQL Sales Data Analysis:</b> Performed queries using SELECT, WHERE, ORDER BY, JOINs, Subqueries, and Aggregate functions. Generated insights on sales trends, customer segmentation, and KPI reporting.</li>
+    <li><b>Excel KPI Dashboard:</b> Created interactive dashboards using Pivot Tables, Power Query, VLOOKUP, and Charts. Automated reports for monthly business review.</li>
+    <li><b>Python Data Analysis & Visualization:</b> Cleaned and analyzed datasets using Pandas and NumPy. Created visualizations using Matplotlib and Seaborn to showcase trends and correlations.</li>
+    <li><b>End-to-End BI Dashboard (SQL + Python + Power BI):</b> Combined SQL data extraction, Python analysis, and Power BI dashboarding. Presented actionable insights with interactive charts and KPI tracking.</li>
+    <li><b>Mini ML Project (Optional):</b> Built regression/classification models using Scikit-Learn. Evaluated performance metrics and visualized results.</li>
+  </ol>
 </div>
 
-<!-- Analytics Card -->
-<div align="center" style="border-radius: 12px; padding: 20px; width: 200px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: 0.3s; background:#f9f9f9;">
-  <h4>📊 Analytics</h4>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 </div>
-
-<!-- Cloud & ML Card -->
-<div align="center" style="border-radius: 12px; padding: 20px; width: 200px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: 0.3s; background:#f9f9f9;">
-  <h4>☁️ Cloud & ML</h4>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</div>
-
-<!-- Tools Card -->
-<div align="center" style="border-radius: 12px; padding: 20px; width: 200px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: 0.3s; background:#f9f9f9;">
-  <h4>🛠 Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</div>
-
-<!-- Education Card -->
-<div align="center" style="border-radius: 12px; padding: 20px; width: 200px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: 0.3s; background:#f9f9f9;">
-  <h4>🎓 Education</h4>
-  <p>MCA @ LPU (2023-2026)</p>
-  <p>IBM AI/ML Intern</p>
-  <p>Cognifyz Software Dev Intern</p>
-</div>
-
-<!-- Languages Card -->
-<div align="center" style="border-radius: 12px; padding: 20px; width: 200px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: 0.3s; background:#f9f9f9;">
-  <h4>🗣 Languages</h4>
-  <p>English - Fluent</p>
-  <p>Hindi - Native</p>
-</div>
-
-<!-- Experience Card -->
-<div align="center" style="border-radius: 12px; padding: 20px; width: 200px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); transition: 0.3s; background:#f9f9f9;">
-  <h4>💼 Experience</h4>
-  <p>E-Healthcare Platform</p>
-  <p>EduBytes Frontend</p>
-  <p>Employee Salary Prediction</p>
-</div>
-
-</p>
 
 <style>
 div:hover {
@@ -76,16 +73,3 @@ div:hover {
   transform: translateY(-5px);
 }
 </style>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=whoistausif&show_icons=true&theme=radical&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoistausif&layout=compact&theme=radical&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoistausif&theme=radical&hide_border=true" height="180"/>
-</p>
