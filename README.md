@@ -82,29 +82,16 @@ Aspiring Data Analyst with strong skills in SQL, Python, Excel, and Business Int
 <!-- GitHub Stats -->
 <h1 align="center">📊 GitHub Stats</h1>
 
-<div style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-
-  <!-- General Stats -->
-  <div style="background:#1e1e2f; padding:20px; border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.3); transition:0.3s;">
-    <img src="https://github-readme-stats.vercel.app/api?username=whoistausif&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="350" />
-  </div>
-
-  <!-- Top Languages -->
-  <div style="background:#1e1e2f; padding:20px; border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.3); transition:0.3s;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoistausif&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="350" />
-  </div>
-
-  <!-- Streak Stats -->
-  <div style="background:#1e1e2f; padding:20px; border-radius:15px; box-shadow:0 8px 20px rgba(0,0,0,0.3); transition:0.3s;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=whoistausif&theme=radical&hide_border=true" alt="GitHub Streak" width="350" />
-  </div>
-
-</div>
-
-<style>
-div div:hover {
-  transform: scale(1.05);
-  box-shadow: 0 12px 30px rgba(0,0,0,0.4);
-  transition: all 0.3s ease-in-out;
-}
-</style>
+<table align="center">
+<tr>
+<td>
+<img src="https://github-readme-stats.vercel.app/api?username=whoistausif&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" width="380"/>
+</td>
+<td>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoistausif&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="380"/>
+</td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whoistausif&theme=radical&hide_border=true" alt="GitHub Streak" width="380"/>
+</td>
+</tr>
+</table>
