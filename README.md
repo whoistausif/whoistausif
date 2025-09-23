@@ -75,8 +75,9 @@ Aspiring Data Analyst with strong skills in SQL, Python, Excel, and Business Int
 <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
 </a>
 <a href="https://hashnode.com/@whoistausif127" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" alt="Hashnode" height="30" width="30"/>
+  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" alt="Hashnode" height="30" width="30" style="filter: invert(36%) sepia(91%) saturate(4789%) hue-rotate(207deg) brightness(96%) contrast(101%);"/>
 </a>
+
 
 </p>
 
