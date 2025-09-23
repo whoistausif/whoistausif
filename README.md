@@ -66,20 +66,40 @@ Aspiring Data Analyst with strong skills in SQL, Python, Excel, and Business Int
 </ul>
 
 <!-- Connect -->
-<h2 align="center">Connect with me</h2>
-<p align="center">
-<a href="https://linkedin.com/in/mohammadtausif07" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/whyyy.tauxif" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://hashnode.com/@whoistausif127" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" alt="Hashnode" height="30" width="30" style="filter: invert(36%) sepia(91%) saturate(4789%) hue-rotate(207deg) brightness(96%) contrast(101%);"/>
-</a>
+<h1 align="center">🤝 Connect with Me</h1>
 
+<table align="center" style="border-collapse: collapse;">
+<tr>
+  <td align="center" style="padding: 10px;">
+    <a href="https://linkedin.com/in/mohammadtausif07" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <br>LinkedIn
+  </td>
 
-</p>
+  <td align="center" style="padding: 10px;">
+    <a href="https://github.com/whoistausif" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+    <br>GitHub
+  </td>
+
+  <td align="center" style="padding: 10px;">
+    <a href="https://instagram.com/whyyy.tauxif" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <br>Instagram
+  </td>
+
+  <td align="center" style="padding: 10px;">
+    <a href="https://hashnode.com/@whoistausif127" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+    </a>
+    <br>Hashnode
+  </td>
+</tr>
+</table>
+
 
 <!-- GitHub Stats -->
 <h1 align="center">📊 GitHub Stats</h1>
