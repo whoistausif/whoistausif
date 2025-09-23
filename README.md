@@ -19,7 +19,7 @@
 <div style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
 
 <!-- Profile Card -->
-<div style="background:#f9f9f9; padding:20px; border-radius:12px; width:450px; box-shadow:0 5px 15px rgba(0,0,0,0.1); transition:0.3s;">
+<div style="background:#f9f9f9; padding:25px; border-radius:12px; width:480px; box-shadow:0 5px 15px rgba(0,0,0,0.1); transition:0.3s;">
   <!-- Name & Role -->
   <h2>Mohd Tausif</h2>
   <h4>
@@ -36,6 +36,10 @@
     </a>
   </p>
   
+  <!-- Objective -->
+  <h4>🎯 Objective</h4>
+  <p>Aspiring Data Analyst with strong skills in SQL, Python, Excel, and Business Intelligence tools. Completed hands-on projects in SQL querying, Python-based analysis, and interactive dashboards using Power BI and Tableau. Seeking to contribute analytical and problem-solving skills to top MNCs like TCS, Infosys, Cognizant, or Deloitte.</p>
+
   <!-- Tech Stack -->
   <h4>🛠 Tech Stack</h4>
   <p>
@@ -63,6 +67,22 @@
     <li><b>End-to-End BI Dashboard (SQL + Python + Power BI):</b> Combined SQL data extraction, Python analysis, and Power BI dashboarding. Presented actionable insights with interactive charts and KPI tracking.</li>
     <li><b>Mini ML Project (Optional):</b> Built regression/classification models using Scikit-Learn. Evaluated performance metrics and visualized results.</li>
   </ol>
+
+  <!-- Certifications -->
+  <h4>🏅 Certifications</h4>
+  <ul>
+    <li>IBM Data Analyst Professional Certificate – Coursera</li>
+    <li>Python for Data Science / Data Visualization – Udemy / Coursera</li>
+    <li>Power BI / Tableau – Udemy / Coursera</li>
+  </ul>
+
+  <!-- Additional Information -->
+  <h4>ℹ️ Additional Information</h4>
+  <ul>
+    <li>Languages: English, Hindi</li>
+    <li>GitHub Portfolio: <a href="https://github.com/whoistausif">github.com/whoistausif</a></li>
+    <li>Available for Full-Time Roles / Relocation</li>
+  </ul>
 </div>
 
 </div>
