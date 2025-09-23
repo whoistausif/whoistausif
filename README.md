@@ -1,81 +1,59 @@
-<h1 align="center">👋 Hey, I'm Mohd Tausif</h1>
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Data+Analyst;AI%2FML+Enthusiast;Lifelong+Learner" alt="Typing Animation" />
-</h3>
+<h1 align="center">👋 Hi, I'm Mohd Tausif</h1>
+<h3 align="center">Data Analyst | AI/ML Enthusiast | Web Developer | Lifelong Learner</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mohammadtausif07/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/whoistausif">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?logo=github&logoColor=white&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 🧰 Tech Stack & Profile Dashboard
+## 🛠 Professional Tech Stack
 
-<p align="center" style="display:flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
-
-<!-- Programming Card -->
-<div align="center" style="border-radius: 15px; padding: 15px; width: 180px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: 0.3s;">
-  <h4>💻 Programming</h4>
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,r" />
-</div>
-
-<!-- Analytics Card -->
-<div align="center" style="border-radius: 15px; padding: 15px; width: 180px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: 0.3s;">
-  <h4>📊 Analytics</h4>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" /><br/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" /><br/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
-</div>
-
-<!-- Cloud & ML Card -->
-<div align="center" style="border-radius: 15px; padding: 15px; width: 180px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: 0.3s;">
-  <h4>☁️ Cloud & ML</h4>
-  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn" />
-</div>
-
-<!-- Tools Card -->
-<div align="center" style="border-radius: 15px; padding: 15px; width: 180px; box-shadow: 0 5px 15px rgba(0,0,0,0.1); transition: 0.3s;">
-  <h4>🛠 Tools</h4>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" />
-</div>
-
-</p>
-
-<style>
-div:hover {
-  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-  transform: translateY(-5px);
-}
-</style>
+| Skill Category | Skills | Proficiency |
+|----------------|-------|------------|
+| **Programming** | Python, PHP, JavaScript, HTML, CSS, MySQL, R | ![90%](https://progress-bar.dev/90) |
+| **Data Analytics** | Excel, Power BI, Tableau | ![85%](https://progress-bar.dev/85) |
+| **Cloud & ML** | AWS, Azure, GCP, TensorFlow, Scikit-Learn | ![80%](https://progress-bar.dev/80) |
+| **Tools** | Git, GitHub, VS Code, Figma | ![95%](https://progress-bar.dev/95) |
 
 ---
 
 ## 🎓 Education & Certificates
-<p align="center">
-  <b>MCA @ LPU (2023-2026)</b> 🎓<br/>
-  <b>IBM AI/ML & Data Analytics Intern</b> 🏅<br/>
-  <b>Cognifyz Software Dev Intern</b> 🏅<br/>
-  <b>YHills Web Dev Intern</b> 🏅
-</p>
+
+- **MCA** @ Lovely Professional University (2023-2026)  
+- **IBM AI/ML & Data Analytics Intern**  
+- **Cognifyz Software Development Intern**  
+- **YHills Web Development Intern**  
+
+[View Certificates](#) (You can add actual certificate links)
 
 ---
 
-## 🗣 Languages
-<p align="center">
-  <img src="https://img.shields.io/badge/English-Fluent-blue" />
-  <img src="https://img.shields.io/badge/Hindi-Native-red" />
-</p>
+## 🌐 Languages
+
+- English: Fluent  
+- Hindi: Native  
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
+
+**Data Analytics & AI/ML Projects:**  
+- **E-Healthcare Workflow Platform** – Multi-role system with appointments, reports, invoices.  
+- **EduBytes (E-Learning Frontend)** – Responsive student dashboard and course UI.  
+- **Employee Salary Prediction** – End-to-end ML pipeline: cleaning → modeling → evaluation.  
+- **Codecrafthub** – Personal dev playground (apps, scripts, experiments).
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <b>Data Analytics | AI/ML | Web Development</b><br/>
-  Hands-on projects with E-Healthcare, EduBytes, Employee Salary Prediction & Codecrafthub
+  <img src="https://github-readme-stats.vercel.app/api?username=whoistausif&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoistausif&layout=compact&theme=tokyonight&hide_border=true" height="160" />
 </p>
