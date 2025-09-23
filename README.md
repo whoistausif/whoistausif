@@ -1,59 +1,72 @@
 <!-- Profile README for whoistausif -->
 
-# 👋 Hey, I’m Mohd Tausif — aka **whoistausif**
+<h1 align="center">👋 Hey, I'm Mohd Tausif</h1>
+<h3 align="center">🚀 Data Analyst | AI/ML Enthusiast | Web Developer</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammadtausif07/)  
-[![GitHub followers](https://img.shields.io/github/followers/whoistausif?label=Follow&style=social)](https://github.com/whoistausif)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Building-orange?logo=githubpages)](#)  
-
-I’m a **Data Analyst & AI/ML Enthusiast** passionate about solving real-world problems using **data, code, and clean design**.  
-Currently building **healthcare platforms, e-learning systems, and ML projects** while leveling up with structured roadmaps.
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammadtausif07/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/whoistausif">
+    <img src="https://img.shields.io/github/followers/whoistausif?label=Follow&style=social" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Tech Stack & Skills
+## 💡 About Me
+- 🔭 Building **Healthcare & E-learning Platforms**  
+- 📊 Exploring **Data Analytics & AI/ML**  
+- 🌍 Open to roles in **India & Middle East (UAE, Saudi, Qatar)**  
+- 🎯 Goal: Become a **Data Analyst / AI Engineer** and create impactful projects  
 
-### 📊 Data Analytics
-- **SQL:** Joins, Subqueries, Procedures, Transactions, Data Manipulation  
-- **Excel:** Advanced formulas, PivotTables, Power Query, KPI Dashboards  
-- **Statistics:** Descriptive Stats, Correlation, Hypothesis Testing  
-- **Python for Data:** Pandas, NumPy, EDA  
-- **Visualization:** Matplotlib, Seaborn, ggplot (R)  
-- **BI Tools:** Power BI (DAX, dashboards), Tableau (stories, filters, charts)  
+---
 
-### 💻 Development
-- **Languages:** Python · PHP · JavaScript · SQL · HTML · CSS  
-- **Frontend:** Vanilla JS · Tailwind CSS (familiar)  
-- **Backend:** PHP · MySQL  
-- **Other Tools:** Git/GitHub · REST APIs · Excel/CSV workflows  
+## 🛠️ Tech & Tools
 
-### ☁️ Advanced & Cloud
-- ETL Basics (Hadoop, Spark, PySpark)  
-- Cloud: AWS · Azure · GCP (fundamentals)  
-- Machine Learning: scikit-learn, Salary Prediction, Mini NLP Projects  
+<p align="center">
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,r" /><br/>
+  <!-- Analytics & ML -->
+  <img src="https://skillicons.dev/icons?i=py,sklearn,tensorflow" /> 
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" /><br/>
+  <!-- Cloud -->
+  <img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ---
 
 ## 📂 Featured Projects
-
-- 🩺 **E-Healthcare Workflow Platform** → Multi-role system (Admin/Doctor/Patient), Appointments, Reports, Invoices  
-- 📚 **EduBytes (E-learning Frontend)** → Clean responsive UI for courses & student flows  
-- 💻 **Codecrafthub** → Personal dev playground (web apps, scripts, experiments)  
-- 📈 **Employee Salary Prediction (ML)** → End-to-end ML pipeline (data cleaning → training → evaluation)  
-
----
-
-## 🎯 Career Goals
-- Entry-level **Data Analyst / AI-ML Engineer**  
-- Strong in **SQL · Excel · Python · BI Dashboards · ML basics**  
-- Open to **remote & on-site roles** in **India & Middle East (UAE, Saudi, Qatar)**  
+- 🩺 **E-Healthcare Workflow Platform** → Multi-role system with appointments, reports & invoices  
+- 📚 **EduBytes (E-learning Frontend)** → Responsive UI for courses & student flows  
+- 💻 **Codecrafthub** → Playground for apps, scripts & experiments  
+- 📈 **Employee Salary Prediction (ML)** → End-to-end ML pipeline with scikit-learn  
 
 ---
 
-## 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadtausif07/)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/whoistausif)  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=whoistausif&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoistausif&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+</p>
 
 ---
 
-✨ *Exploring data, building projects, and sharing knowledge — one repo at a time.*  
+## 🤝 Let’s Connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/mohammadtausif07/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/whoistausif">
+    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+
+✨ *“Exploring data, building projects, and sharing knowledge — one repo at a time.”*  
