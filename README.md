@@ -1,22 +1,9 @@
-<h1 align="center">👋 Hi, I'm Mohammad Tausif</h1>
+<h1 align="center">I'm Mohammad Tausif</h1>
 
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Data+Analyst;AI%2FML+Enthusiast" alt="Typing Animation" />
 </h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammadtausif07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/whoistausif">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-<!-- Objective -->
-<h1 align="center">🎯 Objective</h1>
 <p align="center">
 Aspiring Data Analyst with strong skills in SQL, Python, Excel, and Business Intelligence tools. Completed hands-on projects in SQL querying, Python-based analysis, and interactive dashboards using Power BI and Tableau. Seeking to contribute analytical and problem-solving skills to top MNCs like TCS, Infosys, Cognizant, or Deloitte.
 </p>
