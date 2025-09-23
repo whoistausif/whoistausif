@@ -92,5 +92,9 @@ Aspiring Data Analyst with strong skills in SQL, Python, Excel, and Business Int
 <td>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=whoistausif&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="380"/>
 </td>
+<td>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=whoistausif&theme=radical&hide_border=true" alt="GitHub Streak" width="380"/>
+</td>
 </tr>
 </table>
+
