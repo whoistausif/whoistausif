@@ -1,42 +1,59 @@
-# Mohammad Tausif - Full-Stack Web Developer
+<!-- Profile README for whoistausif -->
 
-Hey there! I'm Mohammad Tausif, a Computer Science student at Shri Shankaracharya Professional University, and I'm passionate about creating amazing web experiences. With a strong foundation in web development, I've honed my skills in HTML, CSS, JavaScript, React, Node.js, and MongoDB. 
+# 👋 Hey, I’m Mohd Tausif — aka **whoistausif**
 
-## About Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/mohammadtausif07/)  
+[![GitHub followers](https://img.shields.io/github/followers/whoistausif?label=Follow&style=social)](https://github.com/whoistausif)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Building-orange?logo=githubpages)](#)  
 
-- 🎓 Computer Science Student at Shri Shankaracharya Professional University
-- 💼 Freelance Web Developer
-- 🌐 Specializing in Responsive and User-Friendly Websites
+I’m a **Data Analyst & AI/ML Enthusiast** passionate about solving real-world problems using **data, code, and clean design**.  
+Currently building **healthcare platforms, e-learning systems, and ML projects** while leveling up with structured roadmaps.
 
-## What I Do
+---
 
-I specialize in developing websites that not only look great but also provide an intuitive user experience. My goal is to bring your ideas to life and create web solutions that not only meet your expectations but exceed them.
+## 🚀 Tech Stack & Skills
 
-## My Skills
+### 📊 Data Analytics
+- **SQL:** Joins, Subqueries, Procedures, Transactions, Data Manipulation  
+- **Excel:** Advanced formulas, PivotTables, Power Query, KPI Dashboards  
+- **Statistics:** Descriptive Stats, Correlation, Hypothesis Testing  
+- **Python for Data:** Pandas, NumPy, EDA  
+- **Visualization:** Matplotlib, Seaborn, ggplot (R)  
+- **BI Tools:** Power BI (DAX, dashboards), Tableau (stories, filters, charts)  
 
-- **Frontend:** HTML, CSS, JavaScript, React
-- **Backend:** PHP, Node.js
-- **Database:** MongoDB
+### 💻 Development
+- **Languages:** Python · PHP · JavaScript · SQL · HTML · CSS  
+- **Frontend:** Vanilla JS · Tailwind CSS (familiar)  
+- **Backend:** PHP · MySQL  
+- **Other Tools:** Git/GitHub · REST APIs · Excel/CSV workflows  
 
-## Why Choose Me?
+### ☁️ Advanced & Cloud
+- ETL Basics (Hadoop, Spark, PySpark)  
+- Cloud: AWS · Azure · GCP (fundamentals)  
+- Machine Learning: scikit-learn, Salary Prediction, Mini NLP Projects  
 
-When you work with me, you can expect:
+---
 
-- ✅ High-Quality Work
-- 🤝 Collaborative Approach
-- 🚀 Dedication to Project Goals
-- 📈 Continuous Learning and Adaptation
+## 📂 Featured Projects
 
-## Let's Collaborate
+- 🩺 **E-Healthcare Workflow Platform** → Multi-role system (Admin/Doctor/Patient), Appointments, Reports, Invoices  
+- 📚 **EduBytes (E-learning Frontend)** → Clean responsive UI for courses & student flows  
+- 💻 **Codecrafthub** → Personal dev playground (web apps, scripts, experiments)  
+- 📈 **Employee Salary Prediction (ML)** → End-to-end ML pipeline (data cleaning → training → evaluation)  
 
-I'm always excited to explore new technologies and take on exciting projects. If you need a skilled web developer committed to delivering high-quality work, don't hesitate to contact me. Let's work together to achieve your project goals.
+---
 
-## Get in Touch
+## 🎯 Career Goals
+- Entry-level **Data Analyst / AI-ML Engineer**  
+- Strong in **SQL · Excel · Python · BI Dashboards · ML basics**  
+- Open to **remote & on-site roles** in **India & Middle East (UAE, Saudi, Qatar)**  
 
-📧 Email: [mohdtausif641@gmail.com](mailto:mohdtausif641@gmail.com)
+---
 
-🌐 LinkedIn: [linkedin.com/in/mohammad-tausif](https://www.linkedin.com/in/mohammad-tausif07)
+## 📫 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammadtausif07/)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/whoistausif)  
 
+---
 
-
-Looking forward to working with you and turning your vision into a reality! 👋
+✨ *Exploring data, building projects, and sharing knowledge — one repo at a time.*  
