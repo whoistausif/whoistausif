@@ -1,91 +1,48 @@
-<h1 align="center">👋 Hi, I'm Mohammad Tausif</h1>
+<h1 align="center">🛠 Tech Stack & Skills</h1>
 
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C7FF&center=true&vCenter=true&width=500&lines=Data+Analyst;AI%2FML+Enthusiast" alt="Typing Animation" />
-</h3>
+<div style="display:flex; flex-wrap: wrap; gap: 15px; justify-content: center;">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohammadtausif07/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/whoistausif">
-    <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+  <!-- Programming -->
+  <div style="background:#f5f5f5; padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition:0.3s; width:220px; text-align:center;">
+    <h4>💻 Programming</h4>
+    <p>Python, PHP, JavaScript, R, HTML, CSS</p>
+  </div>
 
----
+  <!-- Databases -->
+  <div style="background:#f5f5f5; padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition:0.3s; width:220px; text-align:center;">
+    <h4>🗄 Databases</h4>
+    <p>SQL (SELECT, JOINs, Subqueries), Oracle, MySQL, SQL Server</p>
+  </div>
 
-<!-- Objective -->
-<h1 align="center">🎯 Objective</h1>
-<p align="center">
-Aspiring Data Analyst with strong skills in SQL, Python, Excel, and Business Intelligence tools. Completed hands-on projects in SQL querying, Python-based analysis, and interactive dashboards using Power BI and Tableau. Seeking to contribute analytical and problem-solving skills to top MNCs like TCS, Infosys, Cognizant, or Deloitte.
-</p>
+  <!-- Data Visualization / BI -->
+  <div style="background:#f5f5f5; padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition:0.3s; width:220px; text-align:center;">
+    <h4>📊 Data Visualization / BI</h4>
+    <p>Excel Advanced, Power BI, Tableau</p>
+  </div>
 
-<!-- Tech Stack -->
-<h1 align="center">🛠 Tech Stack</h1>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,php,js,html,css,mysql,r,aws,azure,gcp,tensorflow,sklearn,git,github,vscode,figma" />
-</p>
+  <!-- Cloud / Version Control -->
+  <div style="background:#f5f5f5; padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition:0.3s; width:220px; text-align:center;">
+    <h4>☁️ Cloud / VCS</h4>
+    <p>AWS, Azure, GCP basics, Git / GitHub</p>
+  </div>
 
-<!-- Technical Skills -->
-<h1 align="center">💡 Technical Skills</h1>
-<ul>
-<li><b>Databases / SQL:</b> SQL (SELECT, JOINs, Subqueries, Functions, Procedures, Transactions), Oracle, MySQL, SQL Server</li>
-<li><b>Programming:</b> Python (Pandas, NumPy, Matplotlib, Seaborn), R (optional), Jupyter Notebooks</li>
-<li><b>Data Visualization / BI:</b> Power BI (Dashboards, KPIs, Measures, Interactivity), Tableau, Excel Advanced (Pivot Tables, Charts, Power Query, VLOOKUP)</li>
-<li><b>Statistics / Analytics:</b> Descriptive & Inferential Statistics, Correlation, Regression, EDA</li>
-<li><b>ETL / Big Data:</b> Hadoop, Spark, PySpark (Optional)</li>
-<li><b>Cloud / Version Control:</b> AWS, Azure, GCP basics, Git/GitHub (Optional)</li>
-<li><b>Soft Skills:</b> Analytical Thinking, Problem-Solving, Communication, Time Management, Team Collaboration</li>
-</ul>
+  <!-- Analytics / Stats -->
+  <div style="background:#f5f5f5; padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition:0.3s; width:220px; text-align:center;">
+    <h4>📈 Analytics / Stats</h4>
+    <p>Descriptive & Inferential Statistics, Regression, Correlation, EDA</p>
+  </div>
 
-<!-- Projects -->
-<h1 align="center">📁 Projects</h1>
-<ol>
-<li><b>SQL Sales Data Analysis:</b> Performed queries using SELECT, WHERE, ORDER BY, JOINs, Subqueries, and Aggregate functions. Generated insights on sales trends, customer segmentation, and KPI reporting.</li>
-<li><b>Excel KPI Dashboard:</b> Created interactive dashboards using Pivot Tables, Power Query, VLOOKUP, and Charts. Automated reports for monthly business review.</li>
-<li><b>Python Data Analysis & Visualization:</b> Cleaned and analyzed datasets using Pandas and NumPy. Created visualizations using Matplotlib and Seaborn to showcase trends and correlations.</li>
-<li><b>End-to-End BI Dashboard (SQL + Python + Power BI):</b> Combined SQL data extraction, Python analysis, and Power BI dashboarding. Presented actionable insights with interactive charts and KPI tracking.</li>
-<li><b>Mini ML Project (Optional):</b> Built regression/classification models using Scikit-Learn. Evaluated performance metrics and visualized results.</li>
-</ol>
+  <!-- Soft Skills -->
+  <div style="background:#f5f5f5; padding:15px; border-radius:12px; box-shadow:0 4px 12px rgba(0,0,0,0.1); transition:0.3s; width:220px; text-align:center;">
+    <h4>🧠 Soft Skills</h4>
+    <p>Analytical Thinking, Problem-Solving, Communication, Teamwork</p>
+  </div>
 
-<!-- Certifications -->
-<h1 align="center">🏅 Certifications</h1>
-<ul>
-<li>IBM Data Analyst Professional Certificate – Coursera</li>
-<li>Python for Data Science / Data Visualization – Udemy / Coursera</li>
-<li>Power BI / Tableau – Udemy / Coursera</li>
-</ul>
+</div>
 
-<!-- Additional Information -->
-<h1 align="center">ℹ️ Additional Information</h1>
-<ul>
-<li>Languages: English, Hindi</li>
-<li>GitHub Portfolio: <a href="https://github.com/whoistausif">github.com/whoistausif</a></li>
-<li>Available for Full-Time Roles / Relocation</li>
-</ul>
-
-<!-- Connect -->
-<h2 align="center">Connect with me</h2>
-<p align="center">
-<a href="https://linkedin.com/in/mohammadtausif07" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/whyyy.tauxif" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<a href="https://hashnode.com/@whoistausif127" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="Hashnode" height="30" width="40" />
-</a>
-</p>
-
-<!-- GitHub Stats -->
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=whoistausif&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=whoistausif&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=whoistausif&" alt="GitHub Streak" />
-</p>
+<style>
+div div:hover {
+  box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+  transform: translateY(-5px);
+}
+</style>
