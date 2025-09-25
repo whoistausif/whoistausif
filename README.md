@@ -1,44 +1,31 @@
 <!-- Profile README -->
 
-<!-- 🔥 Banner -->
+<!-- Banner -->
 <p align="center">
   <img src="https://i.ibb.co/g7qV2cW/ai-banner.gif" alt="AI Banner" width="100%" />
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Mohd Tausif</span></h1>
-
-<!-- Typewriter -->
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=AI+Engineer;ML+Engineer;Data+Scientist;Lifelong+Learner" alt="Typing SVG" />
-  </a>
-</p>
+<h1 align="center">👋 HELLO WORLD, I'M <span style="color:#4CAF50;">MOHD TAUSIF</span></h1>
+<h3 align="center">🚀 AI Engineer | ML Engineer | Data Scientist</h3>
 
 ---
 
-## 🎯 Objective  
-> Passionate about **Artificial Intelligence** and **Machine Learning**, I strive to build intelligent systems that solve real-world problems.  
-Always curious, always learning, always coding. 🚀  
+## 😎 About Me  
+
+- 🎯 Passionate **AI/ML Engineer** exploring **Data Science** & **Deep Learning**  
+- 📚 Currently pursuing **MCA (2027)** | Completed **BCA (2025)**  
+- 💡 Believe in: *“Every day is a learning opportunity”*  
+- 🛠️ Love building **intelligent systems** that solve real-world problems  
+- ✍️ Open-source contributor & lifelong learner  
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠️ Skills  
 
 <p align="center">
-  <!-- Programming -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,r,java,javascript,html,css,react" /><br/>
-  <!-- AI/ML -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,github,docker,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,react,html,css" /><br/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,mysql,postgres,mongodb,git,github,docker,vscode" />
 </p>
-
----
-
-## 🎓 Education  
-
-🎓 **MCA (Master of Computer Applications)** — *Ongoing, 2027*  
-🎓 **BCA (Bachelor of Computer Applications)** — *2025*  
 
 ---
 
@@ -55,7 +42,7 @@ Always curious, always learning, always coding. 🚀
 
 ---
 
-## 🤝 Connect With Me  
+## 📬 Connect With Me  
 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
@@ -72,7 +59,7 @@ Always curious, always learning, always coding. 🚀
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="400px"/>
 </p>
 
-<h3 align="center">🌟 Let's connect and build something amazing with AI 🌟</h3>
+<h3 align="center">✨ Let’s connect and build something amazing with AI ✨</h3>
