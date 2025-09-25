@@ -3,7 +3,8 @@
 <!-- Banner -->
 <!-- AI Engineer Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/whoistausif/REPO/main/assets/ai-banner.png" alt="AI Engineer Banner" width="100%" />
+  <img src="[https://raw.githubusercontent.com/whoistausif/REPO/main/assets/ai-banner.png](https://raw.githubusercontent.com/whoistausif/whoistausif/main/White%20and%20Blue%20Minimalist%20AI%20Engineer%20LinkedIn%20Banner.png
+)" alt="AI Engineer Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Mohd Tausif</span></h1>
