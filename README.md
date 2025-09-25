@@ -7,7 +7,7 @@
 
 </p>
 
-<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Mohd Tausif</span></h1>
+<h1 align="center"> <span style="color:#4CAF50;">Mohammad Tausif</span></h1>
 
 <!-- Typewriter -->
 <p align="center">
@@ -18,7 +18,7 @@
 
 ---
 
-## 😎 About Me  
+<h1 align="center">😎 About Me</h1>
 
 - 🎯 Passionate **AI/ML Engineer** exploring **Data Science** & **Deep Learning**  
 - 📚 Currently pursuing **MCA (2027)** | Completed **BCA (2025)**  
@@ -28,7 +28,7 @@
 
 ---
 
-## 🛠️ Skills  
+<h1 align="center">🛠️ Skills</h1>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,r,cpp,java,javascript,react,html,css" /><br/>
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Dashboard  
+<h1 align="center">📊 GitHub Dashboard</h1> 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="45%"/>
@@ -46,8 +46,7 @@
 
 ---
 
-## 📬 Connect With Me  
-
+<h1 align="center">📬 Connect With Me</h1> 
 <p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
