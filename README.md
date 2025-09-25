@@ -1,9 +1,9 @@
 <!-- Profile README -->
-i 
+
 <!-- Banner -->
 <!-- AI Engineer Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/REPO/main/assets/ai-banner.png" alt="AI Engineer Banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/whoistausif/REPO/main/assets/ai-banner.png" alt="AI Engineer Banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Mohd Tausif</span></h1>
