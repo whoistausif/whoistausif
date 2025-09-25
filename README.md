@@ -1,5 +1,10 @@
 <!-- Profile README -->
 
+<!-- Banner -->
+<p align="center">
+  <img src="https://i.ibb.co/g7qV2cW/ai-banner.gif" alt="AI Engineer Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Mohd Tausif</span></h1>
 
 <!-- Typewriter -->
@@ -33,9 +38,8 @@
 ## 📊 GitHub Dashboard  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="32%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="32%"/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" width="32%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="45%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="45%"/>
 </p>
 
 ---
