@@ -4,10 +4,7 @@
 <!-- AI Engineer Banner -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/whoistausif/whoistausif/main/Robotic_Futuristic_LinkedIn_Banner_Template_with_White_and_Black_Accents_V1.jpg" alt="AI Engineer Banner" width="800"/>
-
 </p>
-
-<h1 align="center"> <span style="color:#4CAF50;">Mohammad Tausif</span></h1>
 
 <!-- Typewriter -->
 <p align="center">
