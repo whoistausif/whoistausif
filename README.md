@@ -1,12 +1,13 @@
 <!-- Profile README -->
 
-<!-- Banner -->
-<p align="center">
-  <img src="https://i.ibb.co/g7qV2cW/ai-banner.gif" alt="AI Banner" width="100%" />
-</p>
+<h1 align="center">👋 Hi, I'm <span style="color:#4CAF50;">Mohd Tausif</span></h1>
 
-<h1 align="center">👋 HELLO WORLD, I'M <span style="color:#4CAF50;">MOHD TAUSIF</span></h1>
-<h3 align="center">🚀 AI Engineer | ML Engineer | Data Scientist</h3>
+<!-- Typewriter -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=4CAF50&center=true&vCenter=true&width=600&lines=AI+Engineer;ML+Engineer;Data+Scientist" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
@@ -32,12 +33,9 @@
 ## 📊 GitHub Dashboard  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" width="95%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="32%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="32%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=your-github-username&theme=react-dark" width="32%"/>
 </p>
 
 ---
