@@ -3,7 +3,7 @@
 <!-- Banner -->
 <!-- AI Engineer Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/whoistausif/whoistausif/main/White%20and%20Blue%20Minimalist%20AI%20Engineer%20LinkedIn%20Banner.png" alt="AI Engineer Banner" width="1000"/>
+  <img src="https://raw.githubusercontent.com/whoistausif/whoistausif/main/White%20and%20Blue%20Minimalist%20AI%20Engineer%20LinkedIn%20Banner.png" alt="AI Engineer Banner" width="800"/>
 
 </p>
 
