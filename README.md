@@ -34,12 +34,22 @@
 
 ---
 
-<h1 align="center">📊 GitHub Dashboard</h1> 
+<h1 align="center">🌐 Portfolio & Live Work</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight" width="45%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" width="45%"/>
+  🚀 Explore my personal portfolio and see my projects, dashboards, and AI work in action.
 </p>
+
+<p align="center">
+  <a href="https://my-portfolio-website-ncit.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  📊 Includes working dashboards, real-world projects, and hands-on AI/ML implementations.
+</p>
+
 
 ---
 
