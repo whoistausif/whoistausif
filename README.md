@@ -49,7 +49,7 @@
 
 ---
 
-<h1 align="center">📊 GitHub Working Dashboard</h1>
+<h1 align="center">📊 Dashboard</h1>
 
 
 
