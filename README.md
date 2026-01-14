@@ -66,10 +66,10 @@
 
 <h1 align="center">📬 Connect With Me</h1> 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-id" target="_blank">
+  <a href="https://www.linkedin.com/in/mohammadtausif07/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/your-insta-id" target="_blank">
+  <a href="https://www.instagram.com/whyyy.tauxif/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:mohdtausif641@gmail.com" target="_blank">
