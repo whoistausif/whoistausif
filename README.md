@@ -18,7 +18,7 @@
 <h1 align="center">😎 About Me</h1>
 
 - 🎯 Passionate **AI/ML Engineer** exploring **Data Science** & **Deep Learning**  
-- 📚 Currently pursuing **MCA (2027)** | Completed **BCA (2025)**  
+- 📚 Currently Pursuing **MCA (2027)** | Completed **BCA (2025)**  
 - 💡 Believe in: *“Every day is a learning opportunity”*  
 - 🛠️ Love building **intelligent systems** that solve real-world problems  
 - ✍️ Open-source contributor & lifelong learner  
