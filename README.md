@@ -54,7 +54,7 @@
 
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoistausif&theme=tokyonight" width="80%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoistausif&theme=tokyonight" width="100%" />
 </p>
 
 <p align="center">
