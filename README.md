@@ -1,170 +1,163 @@
-<!-- ============================================================
-     GitHub Profile README — Mohammad Tausif (whoistausif)
-     Put this file in a repo named exactly: whoistausif/whoistausif
-     ============================================================ -->
+<!-- Profile README for Mohammad Tausif (whoistausif)
+     Repo name must be exactly: whoistausif/whoistausif -->
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/whoistausif/whoistausif/main/Robotic_Futuristic_LinkedIn_Banner_Template_with_White_and_Black_Accents_V1.jpg" alt="AI Engineer Banner" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:0f2027,50:203a43,100:2c5364&text=Mohammad%20Tausif&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Aspiring%20AI%20%2F%20ML%20Engineer%20%C2%B7%20Data%20Storyteller&descColor=9fb8c8&descSize=18&descAlignY=58" width="100%" alt="Mohammad Tausif"/>
 
-<h1>👋 Hi, I'm Mohammad Tausif</h1>
+<p>
+  <a href="#about">About</a> &nbsp;·&nbsp;
+  <a href="#focus-areas">Focus</a> &nbsp;·&nbsp;
+  <a href="#tech-stack">Stack</a> &nbsp;·&nbsp;
+  <a href="#projects">Projects</a> &nbsp;·&nbsp;
+  <a href="#learning-roadmap">Roadmap</a> &nbsp;·&nbsp;
+  <a href="#github-stats">Stats</a> &nbsp;·&nbsp;
+  <a href="#contact">Contact</a>
+</p>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=4CAF50&center=true&vCenter=true&width=650&lines=Aspiring+AI+%2F+ML+Engineer;Data+Storyteller;Deep+Learning+Enthusiast;Open+Source+Contributor;Building+intelligent+systems" alt="Typing SVG" />
-</a>
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=whoistausif&label=Profile%20Views&color=4CAF50&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/whoistausif?style=for-the-badge&logo=github&color=0d1117&labelColor=161b22)
-![Repos](https://img.shields.io/badge/Repositories-56-4CAF50?style=for-the-badge&logo=github&logoColor=white)
+<a href="https://my-portfolio-website-ncit.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-2C5364?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://leetcode.com/u/Mohammad_Tausif/"><img src="https://img.shields.io/badge/LEETCODE-203A43?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode"/></a>
+<a href="https://www.linkedin.com/in/mohammadtausif07/"><img src="https://img.shields.io/badge/LINKEDIN-0F2027?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
 </div>
 
----
+<br/>
 
-# 😎 About Me
+## About
 
-- 🎓 **MCA (2027)** student at **Lovely Professional University** | Completed **BCA (2025)**
-- 🎯 Aspiring **AI/ML Engineer** exploring **Data Science**, **Machine Learning** & **Deep Learning**
-- 📊 I love turning raw data into stories, insights and working models
-- 🛠️ Building **intelligent systems** that solve real-world problems
-- 🧑‍💻 Practicing **DSA** on LeetCode and preparing for placements
-- 🤝 Open-source contributor & lifelong learner
-- 💡 Motto: *"Every day is a learning opportunity"*
+```python
+class MohammadTausif:
+    role      = "AI / ML Engineer in the making"
+    education = ["MCA @ Lovely Professional University (2027)", "BCA (2025)"]
+    focus     = ["Machine Learning", "Deep Learning", "Data Storytelling"]
+    practicing = "Data Structures & Algorithms on LeetCode"
+    open_to   = ["Internships", "Open-source", "AI/ML collaborations"]
+    motto     = "Every day is a learning opportunity"
+```
 
----
+I'm a postgraduate student who enjoys turning raw data into models and stories that people can actually use. I learn by building, and I'm working towards a career in applied AI.
 
-# 🌱 Currently
+<br/>
 
-| | |
-|---|---|
-| 🔭 **Working on** | Machine Learning projects & data analysis notebooks |
-| 📚 **Learning** | Deep Learning (PyTorch / TensorFlow), NLP, Computer Vision |
-| 🧠 **Practicing** | Data Structures & Algorithms |
-| 🤝 **Looking for** | Internships, open-source projects & AI/ML collaborations |
-
----
-
-# 🛠️ Skills
-
-### 💻 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,r,cpp,java,js,html,css" alt="languages" />
-</p>
-
-### 🤖 AI / ML / Data Science
-<p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,numpy,pandas,opencv" alt="ml" />
-</p>
-
-### 🗄️ Databases, Tools & Web
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,react,git,github,docker,vscode" alt="tools" />
-</p>
-
----
-
-# 🚀 Featured Projects
-
-> ✏️ **Replace these with your own best repos.** Pin them on your profile too (Profile → *Customize your pins*).
+## Focus Areas
 
 <table>
   <tr>
-    <td width="50%" valign="top">
-
-### 🧠 Project One — *ML Model Title*
-Short 1–2 line description: what problem it solves and what data it uses.
-
-`Python` `scikit-learn` `Pandas`
-
-[🔗 View Repo](https://github.com/whoistausif) · [▶️ Live Demo](#)
-
-</td>
-    <td width="50%" valign="top">
-
-### 📈 Project Two — *Data Analysis / Dashboard*
-Short description: what insights you found and how you presented them.
-
-`Python` `Matplotlib` `Power BI / Streamlit`
-
-[🔗 View Repo](https://github.com/whoistausif) · [▶️ Live Demo](#)
-
-</td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 👁️ Project Three — *Deep Learning / CV / NLP*
-Short description: model used, dataset and accuracy achieved.
-
-`PyTorch` `TensorFlow` `OpenCV`
-
-[🔗 View Repo](https://github.com/whoistausif) · [▶️ Live Demo](#)
-
-</td>
-    <td width="50%" valign="top">
-
-### 🌐 Project Four — *Full-Stack / Deployment*
-Short description: an app that serves an ML model or solves a real need.
-
-`React` `Flask` `Docker`
-
-[🔗 View Repo](https://github.com/whoistausif) · [▶️ Live Demo](#)
-
-</td>
+    <td width="33%" valign="top">
+      <h4>🧠 Machine Learning</h4>
+      Supervised & unsupervised learning, feature engineering, model evaluation and tuning.
+    </td>
+    <td width="33%" valign="top">
+      <h4>🔬 Deep Learning</h4>
+      Neural networks with PyTorch and TensorFlow, moving towards NLP and computer vision.
+    </td>
+    <td width="33%" valign="top">
+      <h4>📊 Data Storytelling</h4>
+      Cleaning, analysing and visualising data so the insights are clear to non-technical readers.
+    </td>
   </tr>
 </table>
 
----
+<br/>
 
-# 🌐 Portfolio & Live Work
+## Tech Stack
 
-🚀 Explore my personal portfolio to see my projects, dashboards and AI work in action.
+<table>
+  <tr>
+    <td width="170"><b>Languages</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white" alt="R"/>
+      <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>AI / ML</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch"/>
+      <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn"/>
+      <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Data & Analysis</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
+      <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
+      <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+      <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Web & Tools</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML"/>
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+      <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+    </td>
+  </tr>
+</table>
 
-<p align="center">
-  <a href="https://my-portfolio-website-ncit.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-4CAF50?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
-  </a>
-  <a href="https://leetcode.com/u/Mohammad_Tausif/">
-    <img src="https://img.shields.io/badge/LeetCode-Mohammad__Tausif-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
-  </a>
-</p>
+<br/>
 
----
+## Projects
 
-# 🗺️ My AI/ML Learning Roadmap
+<!-- Replace each row with your real projects. Keep descriptions to one line. -->
 
-- [x] Python, C++, Java & core programming
-- [x] Data analysis with NumPy & Pandas
-- [ ] Machine Learning with scikit-learn (regression, classification, clustering)
-- [ ] Deep Learning with PyTorch / TensorFlow
-- [ ] NLP & Computer Vision
-- [ ] MLOps basics (Docker, model deployment)
-- [ ] Publish 5+ end-to-end AI/ML projects
+| Project | What it does | Stack | Links |
+|:--|:--|:--|:--|
+| **Project Name 1** | One line on the problem it solves and the result (e.g. accuracy, insight). | `Python` `scikit-learn` `Pandas` | [Code](https://github.com/whoistausif) · [Demo](#) |
+| **Project Name 2** | One line on the dataset, method and what you found. | `Python` `Matplotlib` `Streamlit` | [Code](https://github.com/whoistausif) · [Demo](#) |
+| **Project Name 3** | One line on the model used and how it was evaluated. | `PyTorch` `OpenCV` | [Code](https://github.com/whoistausif) · [Demo](#) |
+| **Project Name 4** | One line on how the ML model is served or deployed. | `Flask` `React` `Docker` | [Code](https://github.com/whoistausif) · [Demo](#) |
 
----
+More work is on my [portfolio website](https://my-portfolio-website-ncit.vercel.app/) and in my [repositories](https://github.com/whoistausif?tab=repositories).
 
-# 📊 GitHub Dashboard
+<br/>
+
+## Learning Roadmap
+
+| Area | Status |
+|:--|:--|
+| Python, C++, Java & programming fundamentals | ![Done](https://img.shields.io/badge/-Completed-2ea043?style=flat-square) |
+| Data analysis with NumPy & Pandas | ![Done](https://img.shields.io/badge/-Completed-2ea043?style=flat-square) |
+| Machine Learning with scikit-learn | ![In progress](https://img.shields.io/badge/-In%20progress-d29922?style=flat-square) |
+| Deep Learning with PyTorch / TensorFlow | ![In progress](https://img.shields.io/badge/-In%20progress-d29922?style=flat-square) |
+| NLP & Computer Vision | ![Next](https://img.shields.io/badge/-Up%20next-6e7681?style=flat-square) |
+| MLOps & model deployment | ![Next](https://img.shields.io/badge/-Up%20next-6e7681?style=flat-square) |
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=whoistausif&theme=tokyonight" alt="Profile details" />
+<img src="https://streak-stats.demolab.com?user=whoistausif&theme=tokyonight&hide_border=true&border_radius=10" alt="GitHub streak" width="80%"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=whoistausif&theme=tokyonight" alt="GitHub stats" width="48%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whoistausif&theme=tokyonight" alt="Top languages" width="48%"/>
 
 <br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=whoistausif&theme=tokyonight" alt="Repos per language" width="48%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=whoistausif&theme=tokyonight" alt="Most commit language" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=whoistausif&theme=tokyo-night&hide_border=true" alt="Activity graph" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=whoistausif&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity" width="100%"/>
 
 </div>
 
----
+<br/>
 
-# 📬 Connect With Me
+## Contact
 
 <div align="center">
 
@@ -174,10 +167,10 @@ Short description: an app that serves an ML model or solves a real need.
 
 <br/><br/>
 
-<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat coding" width="380"/>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" alt="Cat coding on a laptop" width="340"/>
 
-### ✨ Let's connect and build something amazing with AI ✨
+<h3>✨ Let's connect and build something amazing with AI ✨</h3>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:4CAF50&height=100&section=footer" width="100%" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:2c5364,100:0f2027&section=footer" width="100%" alt=""/>
 
 </div>
